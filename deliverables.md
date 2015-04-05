@@ -1,4 +1,4 @@
-- What is a scripting language?
+- What is a scripting language?<br>A scripting language
 - What is a variable?
 - What is a string? An array? A boolean?
 - What are events?
