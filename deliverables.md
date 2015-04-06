@@ -1,5 +1,5 @@
 - What is a scripting language?<br>In short, a scripting language is one which supports scripts.  These scripts are code that are run in live-time and so are dynamic, rather than requiring the need to be compiled and interpreted (static).  As such, scripting languages allow for live interaction with users directly via the interface.  An important example of a scripting language is Javascript, which allows users to interact directly in real-time through a web browser.<br><br>
-- What is a variable?
+- What is a variable?<br>A variable is a data structure that is used to store information used in a program.  As its name suggests, its value can vary.  We can set a variable to what we would like, or can design the program to be implemented such that it assigns a variable a value.  There are different variable types (e.g., numbers (integers or floats), strings (sets of characters), or boolean (true or false); as well as different variable scopes: global variables which can be used by the entire program; and local variables which are recognized only in the function or method in which they are introduced.<br><br>
 - What is a string? An array? A boolean?
 - What are events?
 - Link to codeacademy profile: 
