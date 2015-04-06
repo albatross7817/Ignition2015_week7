@@ -1,4 +1,4 @@
-- What is a scripting language?<br>A scripting language
+- What is a scripting language?<br>In short, a scripting language is one which supports scripts.  These scripts are code that are run in live-time and so are dynamic, rather than requiring the need to be compiled and interpreted (static).  As such, scripting languages allow for live interaction with users directly via the interface.  An important example of a scripting language is Javascript, which allows users to interact directly in real-time through a web browser.<br><br>
 - What is a variable?
 - What is a string? An array? A boolean?
 - What are events?
